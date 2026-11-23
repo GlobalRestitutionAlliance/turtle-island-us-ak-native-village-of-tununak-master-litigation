@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+TUNUNAK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+TUNUNAK",
+  "title": "Federal Register - AK NATIVE VILLAGE OF TUNUNAK",
+  "fetched_at": "2026-11-23T16:26:41.917935Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 207413,
+  "sha256": "67dfe2a875449ce6933b93f20f02cbd4539d4f04e2ee23f1bb54ab8d699921f9",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
